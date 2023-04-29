@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is the index file</h1>
+    This is the features page...
 </body>
 </html>
