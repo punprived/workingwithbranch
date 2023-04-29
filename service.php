@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is the contact us page update</h1>
+    This is the service page
 </body>
 </html>
